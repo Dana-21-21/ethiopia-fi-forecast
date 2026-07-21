@@ -1,0 +1,44 @@
+indicator,indicator_code,observation_date,value_numeric,pillar
+Account Ownership Rate,ACC_OWNERSHIP,2014-12-31,22.0,ACCESS
+Account Ownership Rate,ACC_OWNERSHIP,2017-12-31,35.0,ACCESS
+Account Ownership Rate,ACC_OWNERSHIP,2021-12-31,46.0,ACCESS
+Account Ownership Rate,ACC_OWNERSHIP,2021-12-31,56.0,ACCESS
+Account Ownership Rate,ACC_OWNERSHIP,2021-12-31,36.0,ACCESS
+Account Ownership Rate,ACC_OWNERSHIP,2024-11-29,49.0,ACCESS
+Mobile Money Account Rate,ACC_MM_ACCOUNT,2021-12-31,4.7,ACCESS
+Mobile Money Account Rate,ACC_MM_ACCOUNT,2024-11-29,9.45,ACCESS
+4G Population Coverage,ACC_4G_COV,2023-06-30,37.5,ACCESS
+4G Population Coverage,ACC_4G_COV,2025-06-30,70.8,ACCESS
+Mobile Subscription Penetration,ACC_MOBILE_PEN,2025-12-31,61.4,ACCESS
+Fayda Digital ID Enrollment,ACC_FAYDA,2024-08-15,8000000.0,ACCESS
+Fayda Digital ID Enrollment,ACC_FAYDA,2025-02-28,12000000.0,ACCESS
+Fayda Digital ID Enrollment,ACC_FAYDA,2025-05-15,15000000.0,ACCESS
+P2P Transaction Count,USG_P2P_COUNT,2024-07-07,49700000.0,USAGE
+P2P Transaction Count,USG_P2P_COUNT,2025-07-07,128300000.0,USAGE
+P2P Transaction Value,USG_P2P_VALUE,2025-07-07,577700000000.0,USAGE
+ATM Transaction Count,USG_ATM_COUNT,2025-07-07,119300000.0,USAGE
+ATM Transaction Value,USG_ATM_VALUE,2025-07-07,156100000000.0,USAGE
+P2P/ATM Crossover Ratio,USG_CROSSOVER,2025-07-07,1.08,USAGE
+Telebirr Registered Users,USG_TELEBIRR_USERS,2025-06-30,54840000.0,USAGE
+Telebirr Transaction Value,USG_TELEBIRR_VALUE,2025-06-30,2380000000000.0,USAGE
+M-Pesa Registered Users,USG_MPESA_USERS,2024-12-31,10800000.0,USAGE
+M-Pesa 90-Day Active Users,USG_MPESA_ACTIVE,2024-12-31,7100000.0,USAGE
+Mobile Money Activity Rate,USG_ACTIVE_RATE,2024-12-31,66.0,USAGE
+Data Affordability Index,AFF_DATA_INCOME,2024-12-31,2.0,AFFORDABILITY
+Account Ownership Gender Gap,GEN_GAP_ACC,2021-12-31,20.0,GENDER
+Account Ownership Gender Gap,GEN_GAP_ACC,2024-11-29,18.0,GENDER
+Female Mobile Money Account Share,GEN_MM_SHARE,2024-12-31,14.0,GENDER
+Mobile Phone Gender Gap,GEN_GAP_MOBILE,2024-12-31,24.0,GENDER
+Account Ownership Rate,ACC_OWNERSHIP,2025-12-31,70.0,ACCESS
+Fayda Digital ID Enrollment,ACC_FAYDA,2028-12-31,90000000.0,ACCESS
+Female Mobile Money Account Share,GEN_MM_SHARE,2030-12-31,50.0,GENDER
+Telebirr Launch,EVT_TELEBIRR,2021-05-17,,
+Safaricom Ethiopia Commercial Launch,EVT_SAFARICOM,2022-08-01,,
+M-Pesa Ethiopia Launch,EVT_MPESA,2023-08-01,,
+Fayda Digital ID Program Rollout,EVT_FAYDA,2024-01-01,,
+Foreign Exchange Liberalization,EVT_FX_REFORM,2024-07-29,,
+P2P Transaction Count Surpasses ATM,EVT_CROSSOVER,2024-10-01,,
+M-Pesa EthSwitch Integration,EVT_MPESA_INTEROP,2025-10-27,,
+EthioPay Instant Payment System Launch,EVT_ETHIOPAY,2025-12-18,,
+NFIS-II Strategy Launch,EVT_NFIS2,2021-09-01,,
+Safaricom Ethiopia Price Increase,EVT_SAFCOM_PRICE,2025-12-15,,
